@@ -1,0 +1,6 @@
+F:\BBrowske\Visual Studio Projects\Personal\EQ2\Eq2BrokerCalc2\Eq2BrokerCalc2\Eq2BrokerCalc2Lib\bin\Debug\Eq2BrokerCalc2Lib.dll
+F:\BBrowske\Visual Studio Projects\Personal\EQ2\Eq2BrokerCalc2\Eq2BrokerCalc2\Eq2BrokerCalc2Lib\bin\Debug\Eq2BrokerCalc2Lib.pdb
+F:\BBrowske\Visual Studio Projects\Personal\EQ2\Eq2BrokerCalc2\Eq2BrokerCalc2\Eq2BrokerCalc2Lib\obj\Debug\Eq2BrokerCalc2Lib.csproj.CoreCompileInputs.cache
+F:\BBrowske\Visual Studio Projects\Personal\EQ2\Eq2BrokerCalc2\Eq2BrokerCalc2\Eq2BrokerCalc2Lib\obj\Debug\Eq2BrokerCalc2Lib.dll
+F:\BBrowske\Visual Studio Projects\Personal\EQ2\Eq2BrokerCalc2\Eq2BrokerCalc2\Eq2BrokerCalc2Lib\obj\Debug\Eq2BrokerCalc2Lib.pdb
+F:\BBrowske\Visual Studio Projects\Personal\EQ2\Eq2BrokerCalc2\Eq2BrokerCalc2\Eq2BrokerCalc2Lib\obj\Debug\Eq2BrokerCalc2Lib.csprojResolveAssemblyReference.cache

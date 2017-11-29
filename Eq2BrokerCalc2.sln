@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eq2BrokerCalc2", "Eq2BrokerCalc2\Eq2BrokerCalc2.csproj", "{C522C213-6B5E-4C8C-8E16-2CC22E8F0CD9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2A71F448-C3C5-418A-875E-56850FDD4897} = {2A71F448-C3C5-418A-875E-56850FDD4897}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eq2BrokerCalc2LibTests", "Eq2BrokerCalc2Tests\Eq2BrokerCalc2LibTests.csproj", "{799459F8-AD59-432C-8519-B4EA5704697E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eq2BrokerCalc2Lib", "Eq2BrokerCalc2Lib\Eq2BrokerCalc2Lib.csproj", "{2A71F448-C3C5-418A-875E-56850FDD4897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C522C213-6B5E-4C8C-8E16-2CC22E8F0CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C522C213-6B5E-4C8C-8E16-2CC22E8F0CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C522C213-6B5E-4C8C-8E16-2CC22E8F0CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C522C213-6B5E-4C8C-8E16-2CC22E8F0CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799459F8-AD59-432C-8519-B4EA5704697E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799459F8-AD59-432C-8519-B4EA5704697E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799459F8-AD59-432C-8519-B4EA5704697E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799459F8-AD59-432C-8519-B4EA5704697E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A71F448-C3C5-418A-875E-56850FDD4897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A71F448-C3C5-418A-875E-56850FDD4897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A71F448-C3C5-418A-875E-56850FDD4897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A71F448-C3C5-418A-875E-56850FDD4897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF415A64-1B61-4AB1-A117-581C44EB951B}
+	EndGlobalSection
+EndGlobal

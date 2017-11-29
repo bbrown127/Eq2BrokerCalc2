@@ -1,0 +1,10 @@
+F:\BBrowske\Visual Studio Projects\Personal\EQ2\Eq2BrokerCalc2\Eq2BrokerCalc2\Eq2BrokerCalc2Tests\bin\Debug\Eq2BrokerCalc2Lib.dll
+F:\BBrowske\Visual Studio Projects\Personal\EQ2\Eq2BrokerCalc2\Eq2BrokerCalc2\Eq2BrokerCalc2Tests\bin\Debug\nunit.framework.dll
+F:\BBrowske\Visual Studio Projects\Personal\EQ2\Eq2BrokerCalc2\Eq2BrokerCalc2\Eq2BrokerCalc2Tests\bin\Debug\Eq2BrokerCalc2Lib.pdb
+F:\BBrowske\Visual Studio Projects\Personal\EQ2\Eq2BrokerCalc2\Eq2BrokerCalc2\Eq2BrokerCalc2Tests\bin\Debug\nunit.framework.xml
+F:\BBrowske\Visual Studio Projects\Personal\EQ2\Eq2BrokerCalc2\Eq2BrokerCalc2\Eq2BrokerCalc2Tests\obj\Debug\Eq2BrokerCalc2LibTests.csprojResolveAssemblyReference.cache
+F:\BBrowske\Visual Studio Projects\Personal\EQ2\Eq2BrokerCalc2\Eq2BrokerCalc2\Eq2BrokerCalc2Tests\obj\Debug\Eq2BrokerCalc2LibTests.csproj.CoreCompileInputs.cache
+F:\BBrowske\Visual Studio Projects\Personal\EQ2\Eq2BrokerCalc2\Eq2BrokerCalc2\Eq2BrokerCalc2Tests\bin\Debug\Eq2BrokerCalc2LibTests.dll
+F:\BBrowske\Visual Studio Projects\Personal\EQ2\Eq2BrokerCalc2\Eq2BrokerCalc2\Eq2BrokerCalc2Tests\bin\Debug\Eq2BrokerCalc2LibTests.pdb
+F:\BBrowske\Visual Studio Projects\Personal\EQ2\Eq2BrokerCalc2\Eq2BrokerCalc2\Eq2BrokerCalc2Tests\obj\Debug\Eq2BrokerCalc2LibTests.dll
+F:\BBrowske\Visual Studio Projects\Personal\EQ2\Eq2BrokerCalc2\Eq2BrokerCalc2\Eq2BrokerCalc2Tests\obj\Debug\Eq2BrokerCalc2LibTests.pdb
