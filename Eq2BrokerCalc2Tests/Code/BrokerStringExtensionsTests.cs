@@ -21,7 +21,7 @@ namespace Eq2BrokerCalc2LibTests.Code
         {
             //// Arrange
 
-            var expectedValue = output;
+            var expectedValue = output; 
 
             //// Act
 
